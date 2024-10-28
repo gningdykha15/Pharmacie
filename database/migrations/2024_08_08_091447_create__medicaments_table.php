@@ -9,16 +9,16 @@ return new class extends Migration
     /**
      * Run the migrations.
      */
-    public function up(): void
+    public function up()
     {
-        Schema::create('-medicaments', function (Blueprint $table) {
+        Schema::create('_medicaments', function (Blueprint $table) {
             $table->id();
             $table->String("nom");
-            $table->String("codeBarre");
-            $table->dateTime("dateExpiration");
+            $table->date("dateExpiration")->nullable();
             $table->String("fabricant");
-            $table->text("description");
-            
+            $table->text("description")->nullable();
+            $table->string("medicament_code")->unique();
+            $table->string("code_barre")->unique();
             $table->timestamps();
         });
     }
@@ -28,6 +28,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('-medicaments');
+        Schema::dropIfExists('_medicaments');
     }
 };

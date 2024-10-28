@@ -1,0 +1,51 @@
+﻿nom;code_barre;description;date_expiration;medicament _code;notice;fabricant
+Paracétamol;1,23E+12;Analgésique et antipyrétique;10/10/2026;MED001;Utilisé pour douleurs légères à modérées et fièvre Traitement Enfants : 15 mg/kg toutes les 6h.<br>Adultes : 500-1000 mg;Sanofi
+Ibuprofène;1,23E+12;Anti-inflammatoire non stéroïdien;15/05/2025;MED002;"Efficace pour douleurs, fièvre et inflammation Traitement Enfants : 10 mg/kg toutes les 6-8h.
+Adultes : 200-400 mg.";Pfizer
+Amoxicilline;1,23E+12;Antibiotique à large spectre;20/03/2026;MED003;"Utilisé pour traiter les infections respiratoires, urinaires, et ORL Traitement Enfants : 25-50 mg/kg/jour en 2-3 doses.
+Adultes : 500 mg..";GlaxoSmithKline
+Azithromycine;1,23E+12;Antibiotique macrolide;12/12/2025;MED004;Efficace pour les infections des voies respiratoires Traitement Enfants : 10 mg/kg une fois par jour pendant 3 jours.;Roche
+Lisinopril;1,23E+12;Antihypertenseur;18/08/2025;MED005;"Aide à abaisser la pression artérielle Traitement Enfants : Non recommandé.
+Adultes : 10-20 mg une fois par jour..";Merck
+Amlodipine;1,23E+12;Antihypertenseur;14/02/2026;MED006;"Bloqueur des canaux calciques, dilate les vaisseaux sanguins Traitement Enfants : Non recommandé. 
+Adultes : 5-10 mg une fois par jour. 
+Personnes âgées : Ajustement possible..";Novartis
+Metformine;1,23E+12;Antidiabétique oral utilisé pour traiter le diabète de type 2.;30/06/2025;MED007;"Réduit la production de glucose par le foie, aide à contrôler la glycémie Traitement Enfants (10-16 ans) : 500 mg deux fois par jour. 
+Adultes : 500 mg trois fois par jour..";Boehringer Ingelheim
+Insuline glargine;1,23E+12;Insuline basale à action prolongée utilisée pour maintenir une glycémie stable chez les patients diabétiques.;25/11/2024;MED008;Utilisée pour le traitement du diabète de type 1 et 2 Traitement Enfants : Dose ajustée selon la glycémie..;Sanofi
+Oméprazole;1,23E+12;Inhibiteur de la pompe à protons utilisé pour traiter les ulcères et le reflux gastro-œsophagien.;21/04/2025;MED009;"Réduit l'acidité gastrique, efficace pour les ulcères et reflux Traitement Enfants : 10 mg/jour. 
+Adultes : 20-40 mg/jour..";AstraZeneca
+Ranitidine;1,23E+12;Bloqueur des récepteurs H2 utilisé pour traiter le reflux acide et les ulcères.;10/03/2025;MED010;"Efficace contre les ulcères et le reflux acide Traitement Enfants : 2-4 mg/kg/jour en 2 doses. 
+Adultes : 150 mg deux fois par jour..";GlaxoSmithKline
+Warfarine;1,23E+12;Anticoagulant oral utilisé pour prévenir les thromboses et les embolies.;30/01/2026;MED011;"Utilisé pour éviter les caillots sanguins dans diverses conditions Traitement Enfants : Non recommandé. 
+Adultes : Dose ajustée selon l’INR..";Bristol-Myers Squibb
+Rivaroxaban;1,23E+12;Anticoagulant utilisé pour prévenir et traiter les caillots sanguins.;10/10/2025;MED012;"Prévention des thromboses veineuses et AVC Traitement Enfants : Non recommandé. 
+Adultes : 20 mg une fois par jour..";Bayer
+Loratadine;1,23E+12;Antihistaminique utilisé pour traiter les symptômes des allergies.;25/07/2026;MED013;"Efficace contre les allergies respiratoires et cutanées Traitement Enfants (2-12 ans) : 5 mg/jour. 
+Adultes : 10 mg/jour.";Merck
+Salbutamol;1,23E+12;Bronchodilatateur utilisé pour soulager les crises d'asthme.;01/12/2025;MED015;"Utilisé pour traiter les crises d'asthme et les symptômes de BPCO Traitement Enfants : 2 inhalations selon besoin. 
+Adultes : 1 à 2 inhalations toutes les 4-6h..";GlaxoSmithKline
+Fluticasone;1,23E+12;Corticostéroïde utilisé pour contrôler l'inflammation dans les maladies respiratoires.;30/04/2026;MED016;"Efficace pour le traitement de l'asthme et la BPCO Traitement Enfants : 50-250 µg une fois par jour. 
+Adultes : 100-500 µg une fois par jour.
+.";GlaxoSmithKline
+Sertraline;1,23E+12;Antidépresseur utilisé pour traiter la dépression, l'anxiété, et d'autres troubles.;20/11/2025;MED017;"Inhibiteur sélectif de la recapture de la sérotonine, améliore l'humeur Traitement Enfants : Non recommandé. 
+Adultes : 20 mg/jour..";Eli Lilly
+Aspirine;1,23E+12;Analgésique et antipyrétique utilisé pour soulager la douleur et réduire la fièvre, également utilisé en prévention des AVC.;05/06/2025;MED019;"Utilisé pour la douleur, la fièvre et comme anti-inflammatoire Traitement Enfants : 10-15 mg/kg toutes les 4-6h. 
+Adultes : 325-1000 mg toutes les 4-6h..";Pfizer
+Tétracycline;1,23E+12;Antibiotique utilisé pour traiter les infections bactériennes.;01/12/2025;MED020;"Efficace contre une large gamme d'infections Traitement Enfants : 12,5 mg/kg/jour. 
+Adultes : 250-500 mg toutes les 6h..";Bayer
+Clopidogrel;1,23E+12;Antiplaquettaire utilisé pour prévenir les thromboses.;10/03/2026;MED021;"Utilisé après un AVC ou un infarctus du myocarde Traitement Enfants : Non recommandé. 
+Adultes : 75 mg/jour.
+.";Pfizer
+Atorvastatine;1,23E+12;Statine utilisée pour abaisser le cholestérol et prévenir les maladies cardiaques.;15/08/2025;MED022;"Réduit le cholestérol LDL, efficace pour la prévention cardiovasculaire Traitement Enfants : Non recommandé. 
+Adultes : 10-80 mg/jour.";AstraZeneca
+Simvastatine;1,23E+12;Statine utilisée pour abaisser le cholestérol LDL et réduire le risque de maladies cardiaques.;20/05/2026;MED023;"Efficace pour la gestion du cholestérol Traitement Enfants : Non recommandé. 
+Adultes : 5-40 mg/jour.";Pfizer
+Montélukast;1,23E+12;Antagoniste des récepteurs des leucotriènes utilisé pour traiter l'asthme et les allergies.;30/09/2025;MED024;"Utilisé pour prévenir les crises d'asthme et soulager les symptômes allergiques Traitement Enfants : 4-5 mg/jour. 
+Adultes : 10 mg/jour..";Merck
+Bisoprolol;1,23E+12;Bêta-bloquant utilisé pour traiter l'hypertension et l'insuffisance cardiaque.;12/02/2026;MED025;"Réduit la fréquence cardiaque et la pression artérielle Traitement Enfants : Non recommandé. 
+Adultes : 5-10 mg/jour..";Pfizer
+Périndopril;1,23E+12;Antihypertenseur utilisé pour traiter l'hypertension et l'insuffisance cardiaque.;30/07/2025;MED026;"Inhibiteur de l'enzyme de conversion, aide à réduire la pression artérielle Traitement Enfants : Non recommandé. 
+Adultes : 4-8 mg/jour..";AstraZeneca
+Dexaméthasone;1,23E+12;Corticostéroïde utilisé pour réduire l'inflammation et traiter les allergies.;05/10/2025;MED027;"Utilisé pour traiter des maladies inflammatoires et des allergies sévères Traitement Enfants : 0,1-0,3 mg/kg/jour. 
+Adultes : 0,5-9 mg/jour..";AstraZeneca

@@ -11,10 +11,13 @@ class Medicament extends Model
     protected $primarykey = 'id';
     protected $fillable = [
         'nom',
-        'codeBarre',
         'dateExpiration',
         'fabricant',
         'description',
+        'medicament_code',
+        'notice',
+        'instructions',
+        'code_barre',
     ];
     use HasFactory;
 }
